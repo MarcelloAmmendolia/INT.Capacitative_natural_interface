@@ -9,9 +9,10 @@ Within this system, the touch of the user produces a variation in the electrical
 <br/>
 
 ![TDMovieOut 1](https://user-images.githubusercontent.com/82780678/194761917-878c311b-f86f-4da5-95a9-ac8995b5bfde.gif)
-
+<br/>
 
 ![exploded view - 1](https://user-images.githubusercontent.com/82780678/194762620-ddea43b7-0c93-44da-925a-6815cb6e4657.png)
-
+<br/>
 
 ![normal - 1](https://user-images.githubusercontent.com/82780678/194762623-568ae5de-11f6-4250-8c10-1346932a473a.png)
+<br/>
