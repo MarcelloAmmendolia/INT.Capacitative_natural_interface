@@ -6,4 +6,5 @@ Frank Lloyd Wright
 
 Within this system, the touch of the user produces a variation in the electrical continuity wich is capted by capacitative sensors and trasmitted to a micro-controller and then to the computer. In the computer, the sound coming from an external or pre-recorded source is generatively modulated according to the chosen algorithm. A visualization of the data coming from the sensors was then realized within software.
 
-![TDMovieOut 1](https://user-images.githubusercontent.com/82780678/194761345-eb646f69-46e5-4a02-a26e-1f464007ed6b.gif)
+
+![TDMovieOut 1](https://user-images.githubusercontent.com/82780678/194761466-e3ab333a-aad8-496d-9ba7-953b62ea84d8.gif)
